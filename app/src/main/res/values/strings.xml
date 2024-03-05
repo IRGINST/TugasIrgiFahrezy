@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TugasIrgiFahrezy</string>
+    <string name="select">Select an items…</string>
+    <string name="kasir">Kasir</string>
+
+    <string-array name="barang">
+        <item>Token</item>
+        <item>Pulsa</item>
+        <item>Emoney</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>10000</item>
+        <item>20000</item>
+        <item>30000</item>
+    </string-array>
+</resources>
